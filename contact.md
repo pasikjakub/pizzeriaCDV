@@ -2,7 +2,7 @@
 
 ## Adres
 
-Poznańska 1, Poznań
+Pizzeria znajduje się przy ulicy Głównej 10, w centrum miasta. Jest to doskonałe miejsce na relaksujący obiad w trakcie zwiedzania okolicy. Nasza lokalizacja zapewnia łatwy dostęp i parking dla klientów.
 
 ## Godziny otwarcia
 
