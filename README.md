@@ -1,3 +1,3 @@
 # pizzeriaCDV
 
-readme that belongs to vege
+Projekt pizzeri na zajecia cdv
