@@ -17,8 +17,18 @@
 
 <img src="assets/img/70a125e9-0f5c-4859-bb32-9167463d27ed.jpg" width = 200>
 
-|Lp.|Pizza:                                                                                                                                                                       |                    |   cena    |
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
-|1. |WEGEBURGER - kotlet warzywny / liście szpinaku / sałata lodowa / kiełki / ogórek zielony / papryka czerwona / cebula czerwona / awokado / majonez / sos paprykowo-pomidorowy |                    | 28,00 pln | 
-|2. |CHICKENBURGER - kotlet drobiowy / surówka colesław / majonez / sos chipotle                                                                                                  |                    | 22,00 pln | 
+|Lp.|Burger:                                                                                                                                                                      |    cena  |
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|1. |WEGEBURGER - kotlet warzywny / liście szpinaku / sałata lodowa / kiełki / ogórek zielony / papryka czerwona / cebula czerwona / awokado / majonez / sos paprykowo-pomidorowy | 28,00 pln | 
+|2. |CHICKENBURGER - kotlet drobiowy / surówka colesław / majonez / sos chipotle                                                                                                  | 22,00 pln | 
 
+## Frytki / Nuggetsy / Serki
+
+<img src="assets/img/pc281943.jpg" width = 200>
+
+|Lp.|Frytki / Nuggetsy / Serki:                                               |                    |   cena    |
+|---|-------------------------------------------------------------------------|--------------------|-----------|
+|1. |Frytki - sól                                                             |                    | 9,00 pln  | 
+|3. |Frytki sweet patato - Posypka parmezanu / Posypka z natki pietruszki     |                    | 12,00 pln | 
+|4. |Nuggetsy - 6szt                                                          |                    | 10,00 pln | 
+|5. |Serowe kąski Gouda - 9szt                                                |                    | 11,00 pln | 
