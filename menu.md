@@ -15,6 +15,8 @@
 
 ## Burgery
 
+<img src="assets/img/70a125e9-0f5c-4859-bb32-9167463d27ed.jpg" width = 200>
+
 |Lp.|Pizza:                                                                                                                                                                       |                    |   cena    |
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
 |1. |WEGEBURGER - kotlet warzywny / liście szpinaku / sałata lodowa / kiełki / ogórek zielony / papryka czerwona / cebula czerwona / awokado / majonez / sos paprykowo-pomidorowy |                    | 28,00 pln | 
