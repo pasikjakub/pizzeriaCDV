@@ -27,6 +27,16 @@
 |6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco |    | 32,50 pln |  38,00 pln |  45,00 pln |
 
 
+## Sałatki
+
+<img src="assets/img/p2252845.jpg" width = 200>
+
+|Lp.|Sałatkii:                                                                                                                                                                      |    cena  |
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|1. |SAŁATKA PARMA - rukola / szynka parmeńska / oliwki czarne / pomidor koktajlowy / winogrono czerwone / słonecznik | 30,00 pln | 
+|2. |SAŁATKA GRECKA - czarne oliwki / czerwona cebula / kapary / ogórek / pomidor / sałata / ser favita                                                                                            | 26,00 pln | 
+|3. |SAŁATKA Z GRILLOWANYM KOZIM SEREM - cgrillowany kozi ser / gruszka w zalewie / mix sałat / ogórek zielony / pestki dyni i słonecznika / suszone pomidory / żurawina                          | 32,00 pln | 
+
 
 ## Burgery
 
