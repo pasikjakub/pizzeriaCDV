@@ -13,6 +13,31 @@
 |5. |LA BELLA - kurczak / oregano / papryka / ser / sos / szynka|                | 31,00 pln |  34,00 pln |  40,00 pln |
 |6. |DIABOLO - czosnek / oregano / pepperoni / salami / ser / sos / tabasco |    | 32,50 pln |  38,00 pln |  45,00 pln |
 
+## Pizze vege
+
+<img src="assets/img/asdasdas.jpg" width = 200>
+
+|Lp.|Pizza:                                                 |rozmiar:            |   28cm    |   32cm     |    42cm    |
+|---|-------------------------------------------------------|--------------------|-----------|------------|------------|
+|1. |MARGARITA - oregano / ser / sos                        |                    | 24,00 pln |  26,00 pln |  28,00 pln |
+|2. |FUNGHI - oregano / pieczarki / ser / sos          |                    | 27,00 pln |  30,00 pln |  36,00 pln |
+|3. |JERRY - groszek / oregano / pieczarki / ser / sos / szparagi /                 |                    | 30,00 pln |  33,00 pln |  39,00 pln |
+|4. |CAMEMBERT - oregano / ser / ser camembert / ser gorgonzola / sos / szczypiorek |                    | 30,50 pln |  36,00 pln |  42,00 pln |
+|5. |PESTO - ser / pesto oliwkowe z bazylią i kaparami / szynka parmeńska / ser stracciatella / dynia marynowana na słodko / świeży szpinak |                | 32,00 pln |  36,00 pln |  46,00 pln |
+|6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco |    | 32,50 pln |  38,00 pln |  45,00 pln |
+
+
+## Sałatki
+
+<img src="assets/img/p2252845.jpg" width = 200>
+
+|Lp.|Sałatkii:                                                                                                                                                                      |    cena  |
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|1. |SAŁATKA PARMA - rukola / szynka parmeńska / oliwki czarne / pomidor koktajlowy / winogrono czerwone / słonecznik | 30,00 pln | 
+|2. |SAŁATKA GRECKA - czarne oliwki / czerwona cebula / kapary / ogórek / pomidor / sałata / ser favita                                                                                            | 26,00 pln | 
+|3. |SAŁATKA Z GRILLOWANYM KOZIM SEREM - cgrillowany kozi ser / gruszka w zalewie / mix sałat / ogórek zielony / pestki dyni i słonecznika / suszone pomidory / żurawina                          | 32,00 pln | 
+
+
 ## Burgery
 
 <img src="assets/img/70a125e9-0f5c-4859-bb32-9167463d27ed.jpg" width = 200>
