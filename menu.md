@@ -26,9 +26,9 @@
 
 <img src="assets/img/pc281943.jpg" width = 200>
 
-|Lp.|Frytki / Nuggetsy / Serki:                                               |                    |   cena    |
-|---|-------------------------------------------------------------------------|--------------------|-----------|
-|1. |Frytki - sól                                                             |                    | 9,00 pln  | 
-|3. |Frytki sweet patato - Posypka parmezanu / Posypka z natki pietruszki     |                    | 12,00 pln | 
-|4. |Nuggetsy - 6szt                                                          |                    | 10,00 pln | 
-|5. |Serowe kąski Gouda - 9szt                                                |                    | 11,00 pln | 
+|Lp.|Frytki / Nuggetsy / Serki:                                               |   cena    |
+|---|-------------------------------------------------------------------------|-----------|
+|1. |Frytki - sól                                                             | 9,00 pln  | 
+|3. |Frytki sweet patato - Posypka parmezanu / Posypka z natki pietruszki     | 12,00 pln | 
+|4. |Nuggetsy - 6szt                                                          | 10,00 pln | 
+|5. |Serowe kąski Gouda - 9szt                                                | 11,00 pln | 
