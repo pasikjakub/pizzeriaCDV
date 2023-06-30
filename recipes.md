@@ -6,6 +6,8 @@ P.S: Oczywiście są podane bez naszego tajnego składnika, ale obiecujemy, że 
 
 ## Margherita
 
+<img src="assets/img/808ab593-1034-489d-844b-e5c4fd9da8e9.jpg" width = 200>
+
 | Składnik                 | Ilość   |
 |-------------------------|---------|
 | Ciasto do pizzy         | 1 sztuka |
@@ -22,6 +24,8 @@ P.S: Oczywiście są podane bez naszego tajnego składnika, ale obiecujemy, że 
 6. Podawaj ciepłą i gotową do skosztowania!
 
 ## Carbonara
+
+<img src="assets/img/pexels-engin-akyurt-1437267.jpg" width = 200>
 
 | Składnik                 | Ilość   |
 |-------------------------|---------|
