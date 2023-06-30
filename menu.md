@@ -48,6 +48,8 @@
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 |1. |WEGEBURGER - kotlet warzywny / liście szpinaku / sałata lodowa / kiełki / ogórek zielony / papryka czerwona / cebula czerwona / awokado / majonez / sos paprykowo-pomidorowy | 28,00 zł | 
 |2. |CHICKENBURGER - kotlet drobiowy / surówka colesław / majonez / sos chipotle                                                                                                  | 22,00 zł | 
+|2. |PERABURGER - 100% świeżej, grillowanej wołowiny z byka / rukola / sałata lodowa / gruszka / gorgonzola / orzech włoski / cebula karmelizowana / sos curry / sos serowy       | 28,00 zł | 
+
 
 ## Frytki / Nuggetsy / Serki
 
