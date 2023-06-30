@@ -19,7 +19,7 @@
 
 |Lp.|Pizza:                                                                      |   28cm    |   32cm     |    42cm    |
 |---|----------------------------------------------------------------------------|-----------|------------|------------|
-|1. |MARGARITA - oregano / ser / sos                                             | 24,00 zł |  26,00 pln |  28,00 zł |
+|1. |MARGARITA - oregano / ser / sos                                             | 24,00 zł |  26,00 zł |  28,00 zł |
 |2. |FUNGHI - oregano / pieczarki / ser / sos                                    | 27,00 zł |  30,00 zł |  36,00 zł |
 |3. |JERRY - groszek / oregano / pieczarki / ser / sos / szparagi /              | 30,00 zł |  33,00 zł |  39,00 zł |
 |4. |CAMEMBERT - oregano / ser / ser camembert / ser gorgonzola / sos / szczypiorek                     | 30,50 zł |  36,00 zł |  42,00 zł |
