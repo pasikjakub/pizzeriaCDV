@@ -4,14 +4,14 @@
 
 <img src="assets/img/808ab593-1034-489d-844b-e5c4fd9da8e9.jpg" width = 200>
 
-|Lp.|Pizza:                                                 |rozmiar:            |   28cm    |   32cm     |    42cm    |
-|---|-------------------------------------------------------|--------------------|-----------|------------|------------|
-|1. |MARGARITA - oregano / ser / sos                        |                    | 24,00 pln |  26,00 pln |  28,00 pln |
-|2. |PROSCIUTTO - oregano / ser / sos / szynka              |                    | 27,00 pln |  30,00 pln |  36,00 pln |
-|3. |SALAMI - oregano / salami / ser / sos                  |                    | 27,00 pln |  30,00 pln |  36,00 pln |
-|4. |CAPRICCIOSA - oregano / pieczarki / ser / sos / szynka |                    | 28,50 pln |  32,00 pln |  38,00 pln |
-|5. |LA BELLA - kurczak / oregano / papryka / ser / sos / szynka|                | 31,00 pln |  34,00 pln |  40,00 pln |
-|6. |DIABOLO - czosnek / oregano / pepperoni / salami / ser / sos / tabasco |    | 32,50 pln |  38,00 pln |  45,00 pln |
+|Lp.|Pizza:                                                                     |   28cm    |   32cm     |    42cm    |
+|---|---------------------------------------------------------------------------|-----------|------------|------------|
+|1. |MARGARITA - oregano / ser / sos                                            | 24,00 pln |  26,00 pln |  28,00 pln |
+|2. |PROSCIUTTO - oregano / ser / sos / szynka                                  | 27,00 pln |  30,00 pln |  36,00 pln |
+|3. |SALAMI - oregano / salami / ser / sos                                      | 27,00 pln |  30,00 pln |  36,00 pln |
+|4. |CAPRICCIOSA - oregano / pieczarki / ser / sos / szynka                     | 28,50 pln |  32,00 pln |  38,00 pln |
+|5. |LA BELLA - kurczak / oregano / papryka / ser / sos / szynka                | 31,00 pln |  34,00 pln |  40,00 pln |
+|6. |DIABOLO - czosnek / oregano / pepperoni / salami / ser / sos / tabasco     | 32,50 pln |  38,00 pln |  45,00 pln |
 
 ## Pizze vege
 
