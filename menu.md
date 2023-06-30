@@ -26,8 +26,8 @@
 |3. |JERRY - groszek / oregano / pieczarki / ser / sos / szparagi /              | 30,00 zł |  33,00 zł |  39,00 zł |
 |4. |CAMEMBERT - oregano / ser / ser camembert / ser gorgonzola / sos / szczypiorek                     | 30,50 zł |  36,00 zł |  42,00 zł |
 |5. |PESTO - ser / pesto oliwkowe z bazylią i kaparami / szynka parmeńska / ser stracciatella / dynia marynowana na słodko / świeży szpinak                 | 32,00 zł |  36,00 zł |  46,00 zł |
-|6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco     | 32,50 zł |  38,00 zł |  45,00 zł |
-
+|6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco                      | 32,50 zł |  38,00 zł |  45,00 zł |
+|7. |BANAN - ananas / banan / curry / oregano / ser / sos                       | 28,50 zł |  32,00 zł |  37,00 zł |
 
 ## Sałatki
 
