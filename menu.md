@@ -17,14 +17,14 @@
 
 <img src="assets/img/asdasdas.jpg" width = 200>
 
-|Lp.|Pizza:                                                 |rozmiar:            |   28cm    |   32cm     |    42cm    |
-|---|-------------------------------------------------------|--------------------|-----------|------------|------------|
-|1. |MARGARITA - oregano / ser / sos                        |                    | 24,00 pln |  26,00 pln |  28,00 pln |
-|2. |FUNGHI - oregano / pieczarki / ser / sos          |                    | 27,00 pln |  30,00 pln |  36,00 pln |
-|3. |JERRY - groszek / oregano / pieczarki / ser / sos / szparagi /                 |                    | 30,00 pln |  33,00 pln |  39,00 pln |
-|4. |CAMEMBERT - oregano / ser / ser camembert / ser gorgonzola / sos / szczypiorek |                    | 30,50 pln |  36,00 pln |  42,00 pln |
-|5. |PESTO - ser / pesto oliwkowe z bazylią i kaparami / szynka parmeńska / ser stracciatella / dynia marynowana na słodko / świeży szpinak |                | 32,00 pln |  36,00 pln |  46,00 pln |
-|6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco |    | 32,50 pln |  38,00 pln |  45,00 pln |
+|Lp.|Pizza:                                                                      |   28cm    |   32cm     |    42cm    |
+|---|----------------------------------------------------------------------------|-----------|------------|------------|
+|1. |MARGARITA - oregano / ser / sos                                             | 24,00 pln |  26,00 pln |  28,00 pln |
+|2. |FUNGHI - oregano / pieczarki / ser / sos                                    | 27,00 pln |  30,00 pln |  36,00 pln |
+|3. |JERRY - groszek / oregano / pieczarki / ser / sos / szparagi /              | 30,00 pln |  33,00 pln |  39,00 pln |
+|4. |CAMEMBERT - oregano / ser / ser camembert / ser gorgonzola / sos / szczypiorek                     | 30,50 pln |  36,00 pln |  42,00 pln |
+|5. |PESTO - ser / pesto oliwkowe z bazylią i kaparami / szynka parmeńska / ser stracciatella / dynia marynowana na słodko / świeży szpinak                 | 32,00 pln |  36,00 pln |  46,00 pln |
+|6. |DIABOLO VEGE - czosnek / oregano / ser / sos / tabasco     | 32,50 pln |  38,00 pln |  45,00 pln |
 
 
 ## Sałatki
