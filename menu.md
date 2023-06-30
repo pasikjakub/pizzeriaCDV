@@ -12,6 +12,8 @@
 |4. |CAPRICCIOSA - oregano / pieczarki / ser / sos / szynka                     | 28,50 zł |  32,00 zł |  38,00 zł |
 |5. |LA BELLA - kurczak / oregano / papryka / ser / sos / szynka                | 31,00 zł |  34,00 zł |  40,00 zł |
 |6. |DIABOLO - czosnek / oregano / pepperoni / salami / ser / sos / tabasco     | 32,50 zł |  38,00 zł |  45,00 zł |
+|6. |BANAN - ananas / banan / curry / oregano / ser / sos                       | 28,50 zł |  32,00 zł |  37,00 zł |
+
 
 ## Pizze vege
 
